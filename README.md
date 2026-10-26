@@ -1,0 +1,2 @@
+# sindcor-posts
+Posts SindCor
